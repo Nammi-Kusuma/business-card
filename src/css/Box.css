@@ -1,0 +1,20 @@
+.box-container {
+    height: 88%;
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.G-Img {
+    height: 38%;
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}

@@ -1,0 +1,46 @@
+.description-container {
+    color: white;
+    padding: 35px 35px 15px 35px;
+}
+
+.title {
+    line-height: 25px;
+    text-align: center;
+}
+
+.title p {
+    color: grey;
+}
+
+.buttons {
+    padding-top: 10px;
+    padding-bottom: 23px;
+    text-align: center;
+}
+
+.buttons button {
+    padding: 5px 20px;
+    margin-right: 8px;
+    border-radius: 5px;
+}
+
+.linkedin {
+    background-color: #00a0dc;
+}
+
+.icon {
+    margin-right: 5px;
+}
+
+.sub-bio {
+    padding-bottom: 20px;
+}
+
+.text {
+    font-size: 12px;
+    color: grey;
+}
+
+.bio-title {
+    padding-bottom: 7px;
+}
